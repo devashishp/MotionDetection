@@ -16,5 +16,6 @@ The program uses webcam to capture images, and finds the absolute difference bet
 * Make it truly cross platform
  
 #Special Thanks to 
-* [Paul Barton](https://github.com/SavinaRoja)
+* [Paul Barton](https://github.com/SavinaRoja) Author of PyUserInput
 * [Matthias Stein](http://www.steinm.com/#About)
+ - Whose tutorial I shamelessly rippedoff to the point I'd understand. 
