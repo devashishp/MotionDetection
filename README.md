@@ -17,5 +17,4 @@ The program uses webcam to capture images, and finds the absolute difference bet
  
 #Special Thanks to 
 * [Paul Barton](https://github.com/SavinaRoja) Author of PyUserInput
-* [Matthias Stein](http://www.steinm.com/#About)
- - Whose tutorial I shamelessly rippedoff to the point I'd understand. 
+* [Matthias Stein](http://www.steinm.com/#About) Whose tutorial I shamelessly ripped off, but only up to to the point I understood. 
